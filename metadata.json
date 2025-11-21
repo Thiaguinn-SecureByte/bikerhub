@@ -1,4 +1,39 @@
 {
-  "name": "BikerHub",
-  "description": "A modern, responsive motorcycle encyclopedia featuring brands, models, and AI-generated technical specifications."
+  "yamaha": {
+    "xmax-300": {
+      "2021": {
+        "summary": "La Yamaha XMAX 300 2021 se consolidó como una de las scooters más equilibradas del mercado, combinando potencia adecuada, excelente capacidad de almacenamiento y una conducción estable tanto en ciudad como en autopistas.",
+        "history": "El modelo 2021 mantuvo la base introducida en 2017, pero con mejoras en la eficiencia del motor y ajustes en el control de tracción. Este año fue clave porque Yamaha reforzó la comodidad del asiento y la ergonomía para viajes diarios más largos. Además, su diseño se mantuvo moderno y llamativo, destacando por su estética deportiva.",
+        "specs": {
+          "engine": "Monocilíndrico, 4 tiempos, refrigeración líquida, 292 cc",
+          "power": "27.6 CV (20.6 kW) a 7,250 rpm",
+          "torque": "29 Nm a 5,750 rpm",
+          "weight": "179 kg",
+          "seatHeight": "795 mm"
+        },
+        "images": [
+          "https://bikepics.com/Yamaha/XMAX-300/2021/pics",
+          "https://www.motorcyclespecs.co.za/Gallery%20Yamaha%20X-Max%20300%202021/2021-Yamaha-XMAX300-02.jpg",
+          "https://www.motorcyclespecs.co.za/Gallery%20Yamaha%20X-Max%20300%202021/2021-Yamaha-XMAX300-05.jpg"
+        ]
+      },
+
+      "2022": {
+        "summary": "La Yamaha XMAX 300 2022 se mantuvo como una scooter premium dentro del segmento de media cilindrada, caracterizada por su fiabilidad, consumo reducido y una respuesta firme en aceleraciones y curvas.",
+        "history": "En 2022 el modelo no presentó cambios mayores respecto a años anteriores, pero sí refinamientos en la electrónica y ajustes en la gestión del motor para cumplir normativas Euro5. Su diseño agresivo continuó atrayendo a usuarios urbanos y viajeros que buscaban un equilibrio entre estilo y funcionalidad. Yamaha consolidó el XMAX como uno de los scooters más vendidos en Europa.",
+        "specs": {
+          "engine": "Monocilíndrico, 4 tiempos, refrigeración líquida, 292 cc",
+          "power": "27.6 CV (20.6 kW) a 7,250 rpm",
+          "torque": "29 Nm a 5,750 rpm",
+          "weight": "180 kg",
+          "seatHeight": "795 mm"
+        },
+        "images": [
+          "https://www.yamaha-motor.eu/content/dam/yamaha-motor-eu/epg/scooters/sport/xmax-300-2022/2022-Yamaha-XMAX300-EU-Icon_Blue-Static-001.jpg",
+          "https://www.yamaha-motor.eu/content/dam/yamaha-motor-eu/epg/scooters/sport/xmax-300-2022/2022-Yamaha-XMAX300-EU-Icon_Blue-Action-002.jpg",
+          "https://www.yamaha-motor.eu/content/dam/yamaha-motor-eu/epg/scooters/sport/xmax-300-2022/2022-Yamaha-XMAX300-EU-Sonic_Grey-Detail-004.jpg"
+        ]
+      }
+    }
+  }
 }
